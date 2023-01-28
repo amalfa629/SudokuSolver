@@ -1,5 +1,5 @@
 # SudokuSolver
-Java program utilizing Tesseract and OpenCV to solve most sudoku puzzles
+Java program utilizing Tesseract and OpenCV to solve most sudoku puzzles, developed in 2020
 # Files
 The runner file handles the input and processing of the puzzle jpg image.
 
